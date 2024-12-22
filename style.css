@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ABC {
+    background-color: black !important;
+    padding: 10px 10px;
+
+}
+
+.newsletter-form button {
+    margin: 15px 0px 15px 5px;
+    padding: 2px;
+    background-color: yellow;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.info {
+    color: white;
+    
+}
+.abc {
+    padding: 10px 10px;
+    margin: 10px 10px;
+
+}
+.contact-deatails p {
+    margin-bottom: 0px !important;
+}
